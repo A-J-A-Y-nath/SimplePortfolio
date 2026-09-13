@@ -1,0 +1,260 @@
+{
+  "profile": {
+    "name": "M S AJAYNATH",
+    "status": "Available for opportunities",
+    "headlines": [
+      "Software Developer",
+      "AI & Machine Learning",
+      "Full Stack Developer"
+    ],
+    "heroDescription": "I build scalable applications, AI-powered platforms, full-stack web systems, and databases. Passionate about turning complex academic and personal challenges into reliable software.",
+    "terminal": {
+      "name": "AJAYNATH M S",
+      "role": "Full Stack",
+      "focus": [
+        "AI",
+        "ML",
+        "Web"
+      ],
+      "command": "npm run build"
+    }
+  },
+  "about": {
+    "paragraphs": [
+      "I'm AJAYNATH M S, a motivated MCA student with strong knowledge in Full Stack Development, Artificial Intelligence, Machine Learning, and Database Management. I enjoy building Al-driven and web-based applications, solving real-world problems, and growing in collaborative environments.",
+      "My experience includes developing an AI-powered mock test platform (\"Level-Up\") utilizing React.js, Node.js, Express.js, and OpenRouter API, as well as leading a team-based Machine Learning project for Fake News Detection. I am proficient in Python, Java, JavaScript, PHP, MySQL, PostgreSQL, and MongoDB.",
+      "Whether it's training machine learning models, crafting clean user interfaces, or designing backend APIs, I believe great software comes from continuous learning, curiosity, and a genuine care for engineering quality."
+    ],
+    "tags": [
+      "Problem Solver",
+      "Continuous Learner",
+      "Team Player",
+      "Open Source"
+    ],
+    "stats": [
+      {
+        "label": "Projects Completed",
+        "value": "5+"
+      },
+      {
+        "label": "Technologies Learned",
+        "value": "15+"
+      },
+      {
+        "label": "Workshops attended",
+        "value": "4+"
+      },
+      {
+        "label": "Internship Completed",
+        "value": "1"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Programming",
+      "items": [
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "JavaScript",
+        "PHP"
+      ]
+    },
+    {
+      "category": "Frontend",
+      "items": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React.js",
+        "Vite"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        "Node.js",
+        "Express.js"
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "category": "AI & ML",
+      "items": [
+        "Machine Learning",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "category": "Tools & Concepts",
+      "items": [
+        "Git",
+        "Linux",
+        "VS Code"
+      ]
+    }
+  ],
+  "projectsDescription": "A collection of full-stack, AI, IoT, and machine learning projects focused on solving practical problems through modern technologies. These projects demonstrate my experience in developing end-to-end applications, integrating AI capabilities, building responsive user interfaces, designing backend APIs, and applying machine learning to real-world use cases.",
+  "projects": [
+    {
+      "id": "smart-automatic-attendance-system-working-on-it",
+      "title": "Smart Automatic Attendance System(working on it)",
+      "bannerTitle": "Attendance",
+      "bannerGradient": "gradient-synthwave",
+      "customGradient": "",
+      "bannerImage": "",
+      "description": "An Android-based smart attendance system that automatically marks student attendance using an ESP8266 classroom Wi-Fi beacon. Teachers start an attendance session from their phone; students nearby scan for the beacon and mark themselves present — all verified server-side, hosted on Render, and stored in Neon PostgreSQL.",
+      "tags": [
+        "SP8266 (ESP-12E/NodeMCU)",
+        "Android (Java",
+        "XML)",
+        "Material 3",
+        "Python",
+        "Flask",
+        "REST API",
+        "PostgreSQL",
+        "Neon",
+        "psycopg2",
+        "JWT",
+        "Firebase Cloud Messaging (FCM)",
+        "Render",
+        "Arduino IDE",
+        "Android Studio",
+        "Git",
+        "Postman"
+      ],
+      "githubUrl": "https://github.com/A-J-A-Y-nath/Smart-Automatic-Attendance-System.git",
+      "demoUrl": ""
+    },
+    {
+      "id": "studysphere-ai",
+      "title": "StudySphere AI",
+      "bannerTitle": "Study_Sphere_Ai",
+      "bannerGradient": "gradient-blue",
+      "customGradient": "",
+      "bannerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqdhsoH-pPg3Jf0Xu4unj0voP7kPdVkqg2LDGqmVjsiw&s",
+      "description": "StudySphere AI is a full-stack AI-powered learning platform that integrates intelligent study tools into academic workflows. It enables AI-based note summarization, personalized quiz generation and editing, interactive 3D flashcards, an AI Tutor, and automated exam study planning. The platform also provides role-based workspaces for Students, Teachers, HODs, and Administrators, with a BYOK multi-provider AI architecture for flexible AI integration.",
+      "tags": [
+        "MERN Stack",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JavaScript",
+        "REST API",
+        "AI/LLM APIs",
+        "BYOK Architecture",
+        "JWT Authentication",
+        "Role-Based Access Control",
+        "3D UI."
+      ],
+      "githubUrl": "https://github.com/A-J-A-Y-nath/StudySphereAi.git",
+      "demoUrl": "https://study-sphere-ai-five.vercel.app/"
+    },
+    {
+      "id": "level-up",
+      "title": "Level-Up – AI-Powered Mock Test Platform",
+      "bannerTitle": "LEVEL-UP",
+      "bannerGradient": "gradient-blue",
+      "bannerImage": "",
+      "description": "An AI-powered mock test platform with Practice and Exam modes. Integrated AI-generated explanations and performance analysis for personalized learning. Designed responsive UI and secure backend for user management and test evaluation.",
+      "tags": [
+        "React.js",
+        "Vite",
+        "Node.js",
+        "Express.js",
+        "OpenRouter API",
+        "JSON",
+        "CSS"
+      ],
+      "githubUrl": "https://github.com/A-J-A-Y-nath/LevelUp",
+      "demoUrl": "https://level-up-three-inky.vercel.app"
+    },
+    {
+      "id": "fake-news-detection",
+      "title": "Fake News Detection",
+      "bannerTitle": "FAKE NEWS",
+      "bannerGradient": "gradient-orange",
+      "bannerImage": "",
+      "description": "A machine learning-based web application to classify news as real or fake. Implemented data preprocessing and machine learning models, achieving high accuracy in classification.",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "githubUrl": "https://github.com/A-J-A-Y-nath/Fake-News-Detection",
+      "demoUrl": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "period": "2024",
+      "title": "Software Development Intern",
+      "organization": "CodSoft (Online)",
+      "description": "Completed a 1-month online Software Development Internship, building and maintaining web applications."
+    },
+    {
+      "id": "exp-2",
+      "period": "2024",
+      "title": "Lead Developer",
+      "organization": "Fake News Detection Team (Academic Project)",
+      "description": "Led a team to successfully build a Machine Learning project (Fake News Detection). Implemented data preprocessing and classification models."
+    },
+    {
+      "id": "exp-3",
+      "period": "Ongoing",
+      "title": "Workshops & Coding Challenges",
+      "organization": "Technical Workshops & Programs",
+      "description": "Actively participated in technical workshops and coding challenges to consistently improve skills in AI, full stack development, and problem solving."
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "period": "2025 – Present",
+      "degree": "Master of Computer Applications (MCA)",
+      "institution": "Rajiv Gandhi Institute of Technology (RIT), Kottayam",
+      "score": "CGPA: Awaiting Results"
+    },
+    {
+      "id": "edu-2",
+      "period": "Aug 2022 – May 2025",
+      "degree": "Bachelor of Science (B.Sc.) – Computer Science",
+      "institution": "Govt. Victoria College, Palakkad",
+      "score": "CGPA: 8.42 / 10"
+    },
+    {
+      "id": "edu-3",
+      "period": "Aug 2020 – May 2022",
+      "degree": "Higher Secondary Education – Computer Science",
+      "institution": "G.H.S.S. Koduvayur",
+      "score": "Percentage: 94.8%"
+    },
+    {
+      "id": "edu-4",
+      "period": "June 2019 – March 2020",
+      "degree": "Secondary School Education (SSLC)",
+      "institution": "R.P.M.H.S Panangatari",
+      "score": "Percentage: 100%"
+    }
+  ],
+  "contact": {
+    "email": "ajaynath1516@gmail.com",
+    "phone": "+91 8590861516",
+    "location": "Kollengode, Palakkad, Kerala, India",
+    "github": "https://github.com/A-J-A-Y-nath",
+    "linkedin": "https://linkedin.com/in/ajaynath-m-s-8481992a2"
+  }
+}

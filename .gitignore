@@ -1,0 +1,8 @@
+# Dependencies & OS files
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Admin Studio & Local Management (Kept local-only on your PC, NOT pushed to GitHub)
+admin/
+start.bat

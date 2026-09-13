@@ -1,0 +1,93 @@
+[
+  {
+    "id": "smart-automatic-attendance-system-working-on-it",
+    "title": "Smart Automatic Attendance System(working on it)",
+    "bannerTitle": "Attendance",
+    "bannerGradient": "gradient-synthwave",
+    "customGradient": "",
+    "bannerImage": "",
+    "description": "An Android-based smart attendance system that automatically marks student attendance using an ESP8266 classroom Wi-Fi beacon. Teachers start an attendance session from their phone; students nearby scan for the beacon and mark themselves present — all verified server-side, hosted on Render, and stored in Neon PostgreSQL.",
+    "tags": [
+      "SP8266 (ESP-12E/NodeMCU)",
+      "Android (Java",
+      "XML)",
+      "Material 3",
+      "Python",
+      "Flask",
+      "REST API",
+      "PostgreSQL",
+      "Neon",
+      "psycopg2",
+      "JWT",
+      "Firebase Cloud Messaging (FCM)",
+      "Render",
+      "Arduino IDE",
+      "Android Studio",
+      "Git",
+      "Postman"
+    ],
+    "githubUrl": "https://github.com/A-J-A-Y-nath/Smart-Automatic-Attendance-System.git",
+    "demoUrl": ""
+  },
+  {
+    "id": "studysphere-ai",
+    "title": "StudySphere AI",
+    "bannerTitle": "Study_Sphere_Ai",
+    "bannerGradient": "gradient-blue",
+    "customGradient": "",
+    "bannerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqdhsoH-pPg3Jf0Xu4unj0voP7kPdVkqg2LDGqmVjsiw&s",
+    "description": "StudySphere AI is a full-stack AI-powered learning platform that integrates intelligent study tools into academic workflows. It enables AI-based note summarization, personalized quiz generation and editing, interactive 3D flashcards, an AI Tutor, and automated exam study planning. The platform also provides role-based workspaces for Students, Teachers, HODs, and Administrators, with a BYOK multi-provider AI architecture for flexible AI integration.",
+    "tags": [
+      "MERN Stack",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JavaScript",
+      "REST API",
+      "AI/LLM APIs",
+      "BYOK Architecture",
+      "JWT Authentication",
+      "Role-Based Access Control",
+      "3D UI."
+    ],
+    "githubUrl": "https://github.com/A-J-A-Y-nath/StudySphereAi.git",
+    "demoUrl": "https://study-sphere-ai-five.vercel.app/"
+  },
+  {
+    "id": "level-up",
+    "title": "Level-Up – AI-Powered Mock Test Platform",
+    "bannerTitle": "LEVEL-UP",
+    "bannerGradient": "gradient-blue",
+    "bannerImage": "",
+    "description": "An AI-powered mock test platform with Practice and Exam modes. Integrated AI-generated explanations and performance analysis for personalized learning. Designed responsive UI and secure backend for user management and test evaluation.",
+    "tags": [
+      "React.js",
+      "Vite",
+      "Node.js",
+      "Express.js",
+      "OpenRouter API",
+      "JSON",
+      "CSS"
+    ],
+    "githubUrl": "https://github.com/A-J-A-Y-nath/LevelUp",
+    "demoUrl": "https://level-up-three-inky.vercel.app"
+  },
+  {
+    "id": "fake-news-detection",
+    "title": "Fake News Detection",
+    "bannerTitle": "FAKE NEWS",
+    "bannerGradient": "gradient-orange",
+    "bannerImage": "",
+    "description": "A machine learning-based web application to classify news as real or fake. Implemented data preprocessing and machine learning models, achieving high accuracy in classification.",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "githubUrl": "https://github.com/A-J-A-Y-nath/Fake-News-Detection",
+    "demoUrl": ""
+  }
+]
